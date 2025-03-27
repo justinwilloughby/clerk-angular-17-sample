@@ -2,11 +2,13 @@
 
 This project demonstrates how to integrate Clerk authentication with an Angular application. It provides a simple reference implementation showing how to handle user authentication, and manage authentication state.
 
+![Angular Clerk Authentication Sample](app.png)
+
 ## Features
 
-- <clerk-sign-in />
-- <clerk-sign-up />
-- <clerk-user-profile />
+- `<clerk-sign-in>` component for user sign-in
+- `<clerk-sign-up>` component for user registration
+- `<clerk-user-button>` component for user profile management
 
 ## Prerequisites
 
